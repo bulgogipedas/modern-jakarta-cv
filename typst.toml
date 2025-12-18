@@ -1,0 +1,16 @@
+[package]
+name = "modern-jakarta-cv"
+version = "0.1.0"
+entrypoint = "modern-cv-jakarta/template.typ"
+authors = [ "Rafli Ardiansyah" ]
+license = "MIT"
+description = "A professional, ultra-tight CV template optimized for marketing and business roles using the Inter font family."
+repository = "https://github.com/bulgogipedas/modern-jakarta-cv"
+keywords = [ "cv", "resume", "marketing", "professional", "minimalist" ]
+categories = [ "office", "cv" ]
+disciplines = [ ]
+
+[template]
+path = "modern-cv-jakarta"
+entrypoint = "guide.typ"
+thumbnail = "modern-cv-jakarta/thumbnail.png"
